@@ -303,6 +303,13 @@ strong {
     filter: brightness(80%);
 }
 
+.copyrights {
+    margin-top: 33px;
+    color: #C7C7C7;
+    font-size: 11px;
+    line-height: 12.89px;
+}
+
 /* MEDIA QUERIES */
 
 @media (max-width: 935px) {
